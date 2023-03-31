@@ -1,6 +1,6 @@
 Name:		texlive-glossaries-extra
 Version:	64973
-Release:	1
+Release:	2
 Summary:	An extension to the glossaries package
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/glossaries-extra
