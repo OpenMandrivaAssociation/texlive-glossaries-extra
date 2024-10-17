@@ -3,7 +3,7 @@ Version:	68409
 Release:	1
 Summary:	An extension to the glossaries package
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/glossaries-extra
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/glossaries-extra
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/glossaries-extra.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/glossaries-extra.doc.r%{version}.tar.xz
